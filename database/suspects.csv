@@ -1,0 +1,163 @@
+ID,Name,Age,Gender,Address,City,State,Phone,Aadhaar,Crime_History,Image_File,Industry
+ID1000,Amitabh Bachchan,,Male,,"Allahabad, Uttar Pradesh, India.",,,,,amitabh_bachchan.jpg,
+ID1001,Shah Rukh Khan,,Male,,"New Delhi, Delhi, India",,,,,shah_rukh_khan.jpg,
+ID1002,Salman Khan,,Male,,"Indore, Madhya Pradesh, India",,,,,salman_khan.jpg,
+ID1003,Aamir Khan,,Male,,"Mumbai, Maharashtra, India",,,,,aamir_khan.jpg,
+ID1004,Hrithik Roshan,,Male,,"Mumbai, Maharashtra, India",,,,,hrithik_roshan.jpg,
+ID1005,Ranveer Singh,,Male,,"Mumbai, Maharashtra, India",,,,,ranveer_singh.jpg,
+ID1006,Deepika Padukone,,Female,,"Copenhagen, Denmark",,,,,deepika_padukone.jpg,
+ID1007,Priyanka Chopra Jonas,,Female,,"Jamshedpur, Jharkand, India",,,,,priyanka_chopra.jpg,
+ID1008,Alia Bhatt,,Female,,"Mumbai, Maharashtra, India",,,,,alia_bhatt.jpg,
+ID1009,Prabhas,,Male,,"Chennai, Tamil Nadu, India",,,,,prabhas.jpg,
+ID1010,Allu Arjun,,Male,,"Chennai, Tamil Nadu, India",,,,,allu_arjun.jpg,
+ID1011,Mahesh Babu,,Male,,"Chennai, Tamil Nadu, India",,,,,mahesh_babu.jpg,
+ID1012,N.T. Rama Rao Jr.,,Male,,"Hyderabad, Andhra Pradesh, India",,,,,jr_ntr.jpg,
+ID1013,Samantha Ruth Prabhu,,Female,,"Chennai, Tamil Nadu, India",,,,,samantha_ruth_prabhu.jpg,
+ID1014,Rashmika Mandanna,,Female,,"Virajpet, Karnataka, India",,,,,rashmika_mandanna.jpg,
+ID1015,Nana Patekar,,Male,,"Murud-Janjira, Maharashtra, India",,,,,nana_patekar.jpg,
+ID1016,Sachin Pilgaonkar,,Male,,"Mumbai, India",,,,,sachin_pilgaonkar.jpg,
+ID1017,Ankush Chaudhari,,Male,,"Mumbai, Maharashtra, India",,,,,ankush_chaudhari.jpg,
+ID1018,Sai Tamhankar,,Female,,"Sangli, Maharashtra, India",,,,,sai_tamhankar.jpg,
+ID1019,Priya Bapat,,Female,,"Mumbai, Maharashtra",,,,,priya_bapat.jpg,
+ID1020,Tom Cruise,,Male,,"Syracuse, New York, USA",,,,,tom_cruise.jpg,
+ID1021,Leonardo DiCaprio,,Male,,"Los Angeles, California, USA",,,,,leonardo_dicaprio.jpg,
+ID1022,Scarlett Johansson,,Female,,"New York City, New York, USA",,,,,scarlett_johansson.jpg,
+ID1023,Dwayne Johnson,,Male,,"Hayward, California, USA",,,,,dwayne_johnson.jpg,
+ID1024,Robert Downey Jr.,,Male,,"New York City, New York, USA",,,,,robert_downey_jr.jpg,
+ID1025,Ranbir Kapoor,,Male,N/A,India,N/A,N/A,N/A,None,ranbir_kapoor.jpg,Hollywood
+ID1026,Akshay Kumar,,Male,N/A,India,N/A,N/A,N/A,None,akshay_kumar.jpg,Hollywood
+ID1027,Ajay Devgn,,Male,N/A,India,N/A,N/A,N/A,None,ajay_devgn.jpg,Hollywood
+ID1028,Shahid Kapoor,,Male,N/A,India,N/A,N/A,N/A,None,shahid_kapoor.jpg,Hollywood
+ID1029,Varun Dhawan,,Male,N/A,India,N/A,N/A,N/A,None,varun_dhawan.jpg,Hollywood
+ID1030,Tiger Shroff,,Male,N/A,India,N/A,N/A,N/A,None,tiger_shroff.jpg,Hollywood
+ID1031,Anil Kapoor,,Male,N/A,India,N/A,N/A,N/A,None,anil_kapoor.jpg,Hollywood
+ID1032,Sunny Deol,,Male,N/A,India,N/A,N/A,N/A,None,sunny_deol.jpg,Hollywood
+ID1033,Bobby Deol,,Male,N/A,India,N/A,N/A,N/A,None,bobby_deol.jpg,Hollywood
+ID1034,Sanjay Dutt,,Male,N/A,India,N/A,N/A,N/A,None,sanjay_dutt.jpg,Hollywood
+ID1035,Irrfan Khan,,Male,N/A,India,N/A,N/A,N/A,None,irrfan_khan.jpg,Hollywood
+ID1036,Nawazuddin Siddiqui,,Male,N/A,India,N/A,N/A,N/A,None,nawazuddin_siddiqui.jpg,Hollywood
+ID1037,Rajkummar Rao,,Male,N/A,India,N/A,N/A,N/A,None,rajkummar_rao.jpg,Hollywood
+ID1038,Ayushmann Khurrana,,Male,N/A,India,N/A,N/A,N/A,None,ayushmann_khurrana.jpg,Hollywood
+ID1039,Vicky Kaushal,,Male,N/A,India,N/A,N/A,N/A,None,vicky_kaushal.jpg,Hollywood
+ID1040,Kartik Aaryan,,Male,N/A,India,N/A,N/A,N/A,None,kartik_aaryan.jpg,Hollywood
+ID1041,Sidharth Malhotra,,Male,N/A,India,N/A,N/A,N/A,None,sidharth_malhotra.jpg,Hollywood
+ID1042,John Abraham,,Male,N/A,India,N/A,N/A,N/A,None,john_abraham.jpg,Hollywood
+ID1043,Emraan Hashmi,,Male,N/A,India,N/A,N/A,N/A,None,emraan_hashmi.jpg,Hollywood
+ID1044,Arjun Kapoor,,Male,N/A,India,N/A,N/A,N/A,None,arjun_kapoor.jpg,Hollywood
+ID1045,Priyanka Chopra Jonas,,Female,N/A,India,N/A,N/A,N/A,None,priyanka_chopra.jpg,Hollywood
+ID1046,Katrina Kaif,,Female,N/A,Hong Kong,N/A,N/A,N/A,None,katrina_kaif.jpg,Hollywood
+ID1047,Anushka Sharma,,Female,N/A,India,N/A,N/A,N/A,None,anushka_sharma.jpg,Hollywood
+ID1048,Kareena Kapoor Khan,,Female,N/A,India,N/A,N/A,N/A,None,kareena_kapoor.jpg,Hollywood
+ID1049,Kangana Ranaut,,Female,N/A,India,N/A,N/A,N/A,None,kangana_ranaut.jpg,Hollywood
+ID1050,Vidya Balan,,Female,N/A,India,N/A,N/A,N/A,None,vidya_balan.jpg,Hollywood
+ID1051,Taapsee Pannu,,Female,N/A,India,N/A,N/A,N/A,None,taapsee_pannu.jpg,Hollywood
+ID1052,Kriti Sanon,,Female,N/A,India,N/A,N/A,N/A,None,kriti_sanon.jpg,Hollywood
+ID1053,Sara Ali Khan,,Female,N/A,India,N/A,N/A,N/A,None,sara_ali_khan.jpg,Hollywood
+ID1054,Janhvi Kapoor,,Female,N/A,India,N/A,N/A,N/A,None,janhvi_kapoor.jpg,Hollywood
+ID1055,Shraddha Kapoor,,Female,N/A,India,N/A,N/A,N/A,None,shraddha_kapoor.jpg,Hollywood
+ID1056,Sonam Kapoor Ahuja,,Female,N/A,India,N/A,N/A,N/A,None,sonam_kapoor.jpg,Hollywood
+ID1057,Parineeti Chopra,,Female,N/A,India,N/A,N/A,N/A,None,parineeti_chopra.jpg,Hollywood
+ID1058,Yami Gautam Dhar,,Female,N/A,India,N/A,N/A,N/A,None,yami_gautam.jpg,Hollywood
+ID1059,Kiara Advani,,Female,N/A,India,N/A,N/A,N/A,None,kiara_advani.jpg,Hollywood
+ID1060,Nora Fatehi,,Female,N/A,Canada,N/A,N/A,N/A,None,nora_fatehi.jpg,Hollywood
+ID1061,Disha Patani,,Female,N/A,India,N/A,N/A,N/A,None,disha_patani.jpg,Hollywood
+ID1062,Malaika Arora,,Female,N/A,India,N/A,N/A,N/A,None,malaika_arora.jpg,Hollywood
+ID1063,Madhuri Dixit,,Female,N/A,India,N/A,N/A,N/A,None,madhuri_dixit.jpg,Hollywood
+ID1064,Kajol,,Female,N/A,India,N/A,N/A,N/A,None,kajol.jpg,Hollywood
+ID1065,Rani Mukerji,,Female,N/A,India,N/A,N/A,N/A,None,rani_mukerji.jpg,Hollywood
+ID1066,Preity Zinta,,Female,N/A,India,N/A,N/A,N/A,None,preity_zinta.jpg,Hollywood
+ID1067,N.T. Rama Rao Jr.,,Male,N/A,India,N/A,N/A,N/A,None,jr_ntr.jpg,Hollywood
+ID1068,Ram Charan,,Male,N/A,India,N/A,N/A,N/A,None,ram_charan.jpg,Hollywood
+ID1069,Vijay Deverakonda,,Male,N/A,India,N/A,N/A,N/A,None,vijay_deverakonda.jpg,Hollywood
+ID1070,Nani,,Male,N/A,India,N/A,N/A,N/A,None,nani.jpg,Hollywood
+ID1071,Rana Daggubati,,Male,N/A,India,N/A,N/A,N/A,None,rana_daggubati.jpg,Hollywood
+ID1072,Chiranjeevi,,Male,N/A,India,N/A,N/A,N/A,None,chiranjeevi.jpg,Hollywood
+ID1073,Nagarjuna,,N/A,N/A,N/A,N/A,N/A,N/A,None,,Hollywood
+ID1074,Venkatesh,,Male,N/A,India,N/A,N/A,N/A,None,venkatesh_daggubati.jpg,Hollywood
+ID1075,Balakrishna,,N/A,N/A,N/A,N/A,N/A,N/A,None,,Hollywood
+ID1076,Sai Durgha Tej,,Male,N/A,India,N/A,N/A,N/A,None,sai_dharam_tej.jpg,Hollywood
+ID1077,Adivi Sesh,,Male,N/A,India,N/A,N/A,N/A,None,adivi_sesh.jpg,Hollywood
+ID1078,Tovino Thomas,,Male,N/A,India,N/A,N/A,N/A,None,tovino_thomas.jpg,Hollywood
+ID1079,Fahadh Faasil,,Male,N/A,India,N/A,N/A,N/A,None,fahadh_faasil.jpg,Hollywood
+ID1080,Pooja Hegde,,Female,N/A,India,N/A,N/A,N/A,None,pooja_hegde.jpg,Hollywood
+ID1081,Kajal Aggarwal,,Female,N/A,India,N/A,N/A,N/A,None,kajal_aggarwal.jpg,Hollywood
+ID1082,Tamannaah Bhatia,,Female,N/A,India,N/A,N/A,N/A,None,tamannaah_bhatia.jpg,Hollywood
+ID1083,Anupama Parameswaran,,Female,N/A,India,N/A,N/A,N/A,None,anupama_parameswaran.jpg,Hollywood
+ID1084,Keerthy Suresh,,Female,N/A,India,N/A,N/A,N/A,None,keerthy_suresh.jpg,Hollywood
+ID1085,Sai Pallavi,,Female,N/A,India,N/A,N/A,N/A,None,sai_pallavi.jpg,Hollywood
+ID1086,Vijay,,N/A,N/A,N/A,N/A,N/A,N/A,None,,Hollywood
+ID1087,Ajith Kumar,,Male,N/A,India,N/A,N/A,N/A,None,ajith_kumar.jpg,Hollywood
+ID1088,Rajinikanth,,Male,N/A,India,N/A,N/A,N/A,None,rajinikanth.jpg,Hollywood
+ID1089,Dhanush,,Male,N/A,India,N/A,N/A,N/A,None,dhanush.jpg,Hollywood
+ID1090,Vikram,,Male,N/A,India,N/A,N/A,N/A,None,vikram.jpg,Hollywood
+ID1091,Suriya,,Male,N/A,India,N/A,N/A,N/A,None,suriya.jpg,Hollywood
+ID1092,Karthi,,Male,N/A,India,N/A,N/A,N/A,None,karthi.jpg,Hollywood
+ID1093,Sivakarthikeyan,,Male,N/A,India,N/A,N/A,N/A,None,sivakarthikeyan.jpg,Hollywood
+ID1094,Vishal,,N/A,N/A,N/A,N/A,N/A,N/A,None,,Hollywood
+ID1095,Ravi Mohan,,Male,N/A,India,N/A,N/A,N/A,None,jayam_ravi.jpg,Hollywood
+ID1096,Nayanthara,,Female,N/A,India,N/A,N/A,N/A,None,nayanthara.jpg,Hollywood
+ID1097,Trisha Krishnan,,Female,N/A,India,N/A,N/A,N/A,None,trisha_krishnan.jpg,Hollywood
+ID1098,Aishwarya Rajesh,,Female,N/A,India,N/A,N/A,N/A,None,aishwarya_rajesh.jpg,Hollywood
+ID1099,Bharat Jadhav,,Male,N/A,N/A,N/A,N/A,N/A,None,bharat_jadhav.jpg,Hollywood
+ID1100,Amey Wagh,,N/A,N/A,N/A,N/A,N/A,N/A,None,amey_wagh.jpg,Hollywood
+ID1101,Subodh Bhave,,Male,N/A,India,N/A,N/A,N/A,None,subodh_bhave.jpg,Hollywood
+ID1102,Sharad Ponkshe,,N/A,N/A,N/A,N/A,N/A,N/A,None,,Hollywood
+ID1103,Upendra Limaye,,Male,N/A,India,N/A,N/A,N/A,None,upendra_limaye.jpg,Hollywood
+ID1104,Sonalee Kulkarni,,Female,N/A,N/A,N/A,N/A,N/A,None,sonalee_kulkarni.jpg,Hollywood
+ID1105,Spruha Joshi,,Female,N/A,India,N/A,N/A,N/A,None,spruha_joshi.jpg,Hollywood
+ID1106,Amruta Khanvilkar,,Female,N/A,Mumbai - India,N/A,N/A,N/A,None,amruta_khanvilkar.jpg,Hollywood
+ID1107,Shruti Marathe,,Female,N/A,N/A,N/A,N/A,N/A,None,shruti_marathe.jpg,Hollywood
+ID1108,Yash,,Male,N/A,india,N/A,N/A,N/A,None,yash.jpg,Hollywood
+ID1109,Darshan Thoogudeepa Srinivas,,Male,N/A,Karnataka,N/A,N/A,N/A,None,darshan_thoogudeepa.jpg,Hollywood
+ID1110,Sudeepa,,Male,N/A,India,N/A,N/A,N/A,None,sudeep.jpg,Hollywood
+ID1111,Puneeth Rajkumar,,Male,N/A,India,N/A,N/A,N/A,None,puneeth_rajkumar.jpg,Hollywood
+ID1112,Rishab Shetty,,Male,N/A,India,N/A,N/A,N/A,None,rishab_shetty.jpg,Hollywood
+ID1113,Rakshit Shetty,,Male,N/A,India,N/A,N/A,N/A,None,rakshit_shetty.jpg,Hollywood
+ID1114,Mohanlal,,Male,N/A,India,N/A,N/A,N/A,None,mohanlal.jpg,Hollywood
+ID1115,Mammootty,,Male,N/A,India,N/A,N/A,N/A,None,mammootty.jpg,Hollywood
+ID1116,Dulquer Salmaan,,Male,N/A,India,N/A,N/A,N/A,None,dulquer_salmaan.jpg,Hollywood
+ID1117,Prithviraj Sukumaran,,Male,N/A,India,N/A,N/A,N/A,None,prithviraj_sukumaran.jpg,Hollywood
+ID1118,Nivin Pauly,,Male,N/A,India,N/A,N/A,N/A,None,nivin_pauly.jpg,Hollywood
+ID1119,Asif Ali,,Male,N/A,Kerala India,N/A,N/A,N/A,None,asif_ali.jpg,Hollywood
+ID1120,Jayasurya,,Male,N/A,India,N/A,N/A,N/A,None,jayasurya.jpg,Hollywood
+ID1121,Robert Downey Jr.,,Male,N/A,USA,N/A,N/A,N/A,None,robert_downey_jr.jpg,Hollywood
+ID1122,Chris Evans,,Male,N/A,USA,N/A,N/A,N/A,None,chris_evans.jpg,Hollywood
+ID1123,Chris Hemsworth,,Male,N/A,Australia,N/A,N/A,N/A,None,chris_hemsworth.jpg,Hollywood
+ID1124,Chris Pratt,,Male,N/A,USA,N/A,N/A,N/A,None,chris_pratt.jpg,Hollywood
+ID1125,Brad Pitt,,Male,N/A,USA,N/A,N/A,N/A,None,brad_pitt.jpg,Hollywood
+ID1126,Will Smith,,Male,N/A,USA,N/A,N/A,N/A,None,will_smith.jpg,Hollywood
+ID1127,Tom Hanks,,Male,N/A,USA,N/A,N/A,N/A,None,tom_hanks.jpg,Hollywood
+ID1128,Johnny Depp,,Male,N/A,USA,N/A,N/A,N/A,None,johnny_depp.jpg,Hollywood
+ID1129,Keanu Reeves,,Male,N/A,Lebanon,N/A,N/A,N/A,None,keanu_reeves.jpg,Hollywood
+ID1130,Ryan Reynolds,,Male,N/A,Canada,N/A,N/A,N/A,None,ryan_reynolds.jpg,Hollywood
+ID1131,Hugh Jackman,,Male,N/A,Australia,N/A,N/A,N/A,None,hugh_jackman.jpg,Hollywood
+ID1132,Matt Damon,,Male,N/A,USA,N/A,N/A,N/A,None,matt_damon.jpg,Hollywood
+ID1133,Benedict Cumberbatch,,Male,N/A,UK,N/A,N/A,N/A,None,benedict_cumberbatch.jpg,Hollywood
+ID1134,Mark Ruffalo,,Male,N/A,USA,N/A,N/A,N/A,None,mark_ruffalo.jpg,Hollywood
+ID1135,Jeremy Renner,,Male,N/A,USA,N/A,N/A,N/A,None,jeremy_renner.jpg,Hollywood
+ID1136,Paul Rudd,,Male,N/A,USA,N/A,N/A,N/A,None,paul_rudd.jpg,Hollywood
+ID1137,Zendaya,,Female,N/A,USA,N/A,N/A,N/A,None,zendaya.jpg,Hollywood
+ID1138,Margot Robbie,,Female,N/A,Australia,N/A,N/A,N/A,None,margot_robbie.jpg,Hollywood
+ID1139,Jennifer Lawrence,,Female,N/A,USA,N/A,N/A,N/A,None,jennifer_lawrence.jpg,Hollywood
+ID1140,Emma Stone,,Female,N/A,USA,N/A,N/A,N/A,None,emma_stone.jpg,Hollywood
+ID1141,Anne Hathaway,,Female,N/A,USA,N/A,N/A,N/A,None,anne_hathaway.jpg,Hollywood
+ID1142,Cate Blanchett,,Female,N/A,Australia,N/A,N/A,N/A,None,cate_blanchett.jpg,Hollywood
+ID1143,Natalie Portman,,Female,N/A,Israel,N/A,N/A,N/A,None,natalie_portman.jpg,Hollywood
+ID1144,Angelina Jolie,,Female,N/A,USA,N/A,N/A,N/A,None,angelina_jolie.jpg,Hollywood
+ID1145,Meryl Streep,,Female,N/A,USA,N/A,N/A,N/A,None,meryl_streep.jpg,Hollywood
+ID1146,Sandra Bullock,,Female,N/A,USA,N/A,N/A,N/A,None,sandra_bullock.jpg,Hollywood
+ID1147,Reese Witherspoon,,Female,N/A,USA,N/A,N/A,N/A,None,reese_witherspoon.jpg,Hollywood
+ID1148,Charlize Theron,,Female,N/A,South Africa,N/A,N/A,N/A,None,charlize_theron.jpg,Hollywood
+ID1149,Gal Gadot,,Female,N/A,Israel,N/A,N/A,N/A,None,gal_gadot.jpg,Hollywood
+ID1150,Brie Larson,,Female,N/A,USA,N/A,N/A,N/A,None,brie_larson.jpg,Hollywood
+ID1151,Elizabeth Olsen,,Female,N/A,USA,N/A,N/A,N/A,None,elizabeth_olsen.jpg,Hollywood
+ID1152,Florence Pugh,,Female,N/A,England UK,N/A,N/A,N/A,None,florence_pugh.jpg,Hollywood
+ID1153,Denzel Washington,,Male,N/A,USA,N/A,N/A,N/A,None,denzel_washington.jpg,Hollywood
+ID1154,Morgan Freeman,,Male,N/A,USA,N/A,N/A,N/A,None,morgan_freeman.jpg,Hollywood
+ID1155,Samuel L. Jackson,,Male,N/A,USA,N/A,N/A,N/A,None,samuel_l_jackson.jpg,Hollywood
+ID1156,Idris Elba,,Male,N/A,UK,N/A,N/A,N/A,None,idris_elba.jpg,Hollywood
+ID1157,Viola Davis,,Female,N/A,USA,N/A,N/A,N/A,None,viola_davis.jpg,Hollywood
+ID1158,Lupita Nyong'o,,Female,N/A,Mexico,N/A,N/A,N/A,None,lupita_nyongo.jpg,Hollywood
+ID1159,Lee Min-ho,,Male,N/A,South Korea,N/A,N/A,N/A,None,lee_min_ho.jpg,Hollywood
+ID1160,Park Jun Seo,,N/A,N/A,N/A,N/A,N/A,N/A,None,,Hollywood
+ID1161,Song Joong-ki,,Male,N/A,South Korea,N/A,N/A,N/A,None,song_joong_ki.jpg,Hollywood
