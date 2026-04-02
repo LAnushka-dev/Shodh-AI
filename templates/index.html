@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shodh- Humanitarian Identity Resolution System</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"/>
+</head>
+<body>
+
+  <!-- ── Header ── -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">🔍</span>
+        <div>
+          <h1>Shodh</h1>
+          <p>Humanitarian Identity Resolution System through Sketch or Image</p>
+        </div>
+      </div>
+      <div class="badge">Identity Resolution System</div>
+    </div>
+  </header>
+
+  <!-- ── Main Layout ── -->
+  <main class="main">
+
+    <!-- ─ Upload Panel ─ -->
+    <section class="card upload-card">
+      <h2>Step 1- Upload a Sketch or Photo of the person</h2>
+      <p class="hint">Accepts: Sketch, CCTV screenshot, photo, or any available image of a person's face.</p>
+
+      <div class="upload-zone" id="uploadZone">
+        <input type="file" id="fileInput" accept="image/*" hidden/>
+        <div class="upload-placeholder" id="uploadPlaceholder">
+          <span class="upload-icon">📁</span>
+          <p>Drag & drop image here or <strong>click to browse</strong></p>
+          <p class="small">JPG · PNG · WEBP · Max 16 MB</p>
+        </div>
+        <img id="previewImg" class="preview-img hidden" alt="Uploaded preview"/>
+      </div>
+
+      <!-- ─ Gender Selector ─ -->
+      <div class="gender-selector">
+        <label class="gender-label">Gender Filter</label>
+        <div class="gender-options">
+          <label class="gender-option">
+            <input type="radio" name="gender" value="any" checked/>
+            <span>Any</span>
+          </label>
+          <label class="gender-option">
+            <input type="radio" name="gender" value="Male"/>
+            <span>♂ Male</span>
+          </label>
+          <label class="gender-option">
+            <input type="radio" name="gender" value="Female"/>
+            <span>♀ Female</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="upload-actions">
+        <button class="btn-secondary" id="clearBtn" disabled>Clear</button>
+        <button class="btn-primary" id="matchBtn" disabled>
+          <span id="matchBtnText">Find Identity</span>
+          <span id="matchBtnSpinner" class="spinner hidden"></span>
+        </button>
+      </div>
+    </section>
+
+    <!-- ─ Status Bar ─ -->
+    <div class="status-bar hidden" id="statusBar">
+      <span id="statusText">Analyzing image…</span>
+    </div>
+
+    <!-- ─ Results Panel ─ -->
+    <section class="card results-card hidden" id="resultsCard">
+      <div class="results-header">
+        <h2>Step 2- Identity Match Results</h2>
+        <span class="results-count" id="resultsCount"></span>
+      </div>
+      <p class="results-note" id="resultsNote"></p>
+
+      <div class="match-grid" id="matchGrid">
+        <!-- Cards injected by script.js -->
+      </div>
+    </section>
+
+    <!-- ─ No Match Panel ─ -->
+    <section class="card no-match-card hidden" id="noMatchCard">
+      <div class="no-match-icon">🚫</div>
+      <h3>No matches found</h3>
+      <p>No person in the database matched the uploaded image.<br/>Try a clearer image or verify that the person's record exists in the database.</p>
+    </section>
+
+    <!-- ─ How It Works ─ -->
+    <section class="card info-card">
+      <h2>How it works</h2>
+      <div class="steps-row">
+        <div class="step">
+          <div class="step-num">1</div>
+          <h4>Upload</h4>
+          <p>Police/Authorities upload a sketch, CCTV image, photo, or any available image of the person whose identity needs to be resolved.</p>
+        </div>
+        <div class="step-arrow">→</div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <h4>AI Matching</h4>
+          <p><p>The system compares the uploaded face against the Aadhaar database, or any other Govt. identification proof. It can also be matched against criminal records if valid.</p></p>
+        </div>
+        <div class="step-arrow">→</div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <h4>Ranked results</h4>
+          <p>Top matches are ranked by similarity percentage. Full identity details are retrieved for each shortlisted person.</p>
+        </div>
+        <div class="step-arrow">→</div>
+        <div class="step">
+          <div class="step-num">4</div>
+          <h4>Resolution</h4>
+          <p>Police or the authorities review the shortlist and confirm the correct identity using supporting information.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─ Use Cases ─ -->
+    <section class="card info-card">
+      <h2>Where Shodh can be used</h2>
+      <div class="steps-row">
+        <div class="step">
+          <div class="step-num">🔎</div>
+          <h4>Criminal investigation</h4>
+          <p>Match a suspect sketch drawn from a victim's or witness's memory against the criminal database when no digital evidence exists. Since every Indian citizen holds an Aadhaar card, or other Govt. ID; Identification is possible even when the person has no prior criminal record.</p>
+        </div>
+        <div class="step-arrow">→</div>
+        <div class="step">
+          <div class="step-num">🆘</div>
+          <h4>Disaster management</h4>
+          <p>Identify survivors or victims of floods, earthquakes, or accidents when they carry no documents.</p>
+        </div>
+        <div class="step-arrow">→</div>
+        <div class="step">
+          <div class="step-num">🏥</div>
+          <h4>Medical emergency</h4>
+          <p>Identify an unconscious patient and retrieve their medical history and emergency contacts instantly in case of emergency.</p>
+        </div>
+        <div class="step-arrow">→</div>
+        <div class="step">
+          <div class="step-num">👶</div>
+          <h4>Missing persons</h4>
+          <p>Find lost children, elderly patients, or missing individuals by matching their photo or sketch to a database.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ── Detail Modal ── -->
+  <div class="modal-overlay hidden" id="modalOverlay">
+    <div class="modal" id="modalBox">
+      <button class="modal-close" id="modalClose">✕</button>
+      <div class="modal-header">
+        <div class="modal-photo-placeholder" id="modalPhoto">👤</div>
+        <div>
+          <h3 id="modalName"></h3>
+          <span class="similarity-badge-large" id="modalSimilarity"></span>
+        </div>
+      </div>
+      <div class="modal-fields" id="modalFields"></div>
+      <div class="modal-warning">
+        ⚠️ This is a shortlisted match only. Verification by authorized personnel is required before any action is taken.
+      </div>
+    </div>
+  </div>
+
+<footer style="text-align:center; padding: 20px; font-size:12px; color:#8b949e; margin-top:10px;">
+    Developed by <strong style="color:#58a6ff;">Anushka Londhe</strong>
+  </footer>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
